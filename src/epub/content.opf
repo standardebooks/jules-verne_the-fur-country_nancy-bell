@@ -82,6 +82,7 @@
 		<dc:contributor id="translator">N. D’Anvers</dc:contributor>
 		<meta property="file-as" refines="#translator">D’Anvers, N.</meta>
 		<meta property="schema:alternateName" refines="#translator">Nancy D’Anvers</meta>
+		<meta property="schema:alternateName" refines="#translator">Nancy Regina Emily Meugens Bell</meta>
 		<link href="https://en.wikipedia.org/wiki/Nancy_Bell_(author)" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n90629657.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">dto</meta>
